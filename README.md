@@ -21,7 +21,7 @@ See [defaults/main.yaml](defaults/main.yaml).
 Example Playbook
 ----------------
 
-See [playbooks/provision.yml](playbooks/provision.yml).
+See [playbooks/provision.yaml](playbooks/provision.yaml).
 
 License
 -------
